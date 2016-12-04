@@ -1,0 +1,6 @@
+C:\Users\dinoz\Desktop\zadcha1\zadcha1\bin\Debug\zadcha1.exe.config
+C:\Users\dinoz\Desktop\zadcha1\zadcha1\bin\Debug\zadcha1.exe
+C:\Users\dinoz\Desktop\zadcha1\zadcha1\bin\Debug\zadcha1.pdb
+C:\Users\dinoz\Desktop\zadcha1\zadcha1\obj\Debug\zadcha1.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\zadcha1\zadcha1\obj\Debug\zadcha1.exe
+C:\Users\dinoz\Desktop\zadcha1\zadcha1\obj\Debug\zadcha1.pdb
